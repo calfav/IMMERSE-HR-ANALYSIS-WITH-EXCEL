@@ -31,5 +31,20 @@
 -  Salary Spread by Total Working  years of our employees by gender
 
 
+Just so you know, this analysis is not exhaustive and serves as an initial exploration of the data.
+
+Key Insights:
+Salary Fluctuations:
+
+Salaries exhibited significant fluctuations throughout the year, peaking in October at $864,867.00 and reaching a low in July at $564,350.00.
+Employees under the age of 20 were not compensated during specific months, indicating their status as contract staff.
+Additionally, the retirement of employees aged 60 and above during certain months contributed to changes in salary trends, particularly depending on their roles within the organization.
+Attrition Analysis:
+
+A significant portion of employee departures was attributed to:
+Retirement: Many employees aged 60 and above were retiring, impacting salary trends.
+Migration: Employees aged 20-30 and 30-40 were leaving for better opportunities in terms of workspace and compensation.
+This analysis has provided valuable insights into workforce dynamics and can inform future HR strategies.
+
 
 
