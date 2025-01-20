@@ -26,7 +26,7 @@
 -  Monthly Salary trends
 -  Salary Spread by the number of years our Full-time employee or Contractor spends at the company
 -  Salary Spread by Total Working  years of our employees by gender
-![image](https://github.com/user-attachments/assets/6d08cff9-1562-4342-97fa-a02de1dbddd2)
+
 
 
 
