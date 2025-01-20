@@ -3,6 +3,7 @@
 
 ![image](https://github.com/calfav/IMMERSE-HR-ANALYSIS-WITH-EXCEL/blob/main/Dashboard.png)
 ![image](https://github.com/calfav/IMMERSE-HR-ANALYSIS-WITH-EXCEL/blob/main/Salary%20Trends.png)
+![image](https://github.com/calfav/IMMERSE-HR-ANALYSIS-WITH-EXCEL/blob/main/Attrition.png)
 
 
 
