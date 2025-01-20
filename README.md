@@ -1,7 +1,8 @@
 # IMMERSE-HR-ANALYSIS-WITH-EXCEL
 
 
-![image](https://github.com/calfav/King-County-House-Sales-Analysis-Tableau/blob/main/KING%20COUNTY%2C%20WAHINGTON%20SALES%20DASHBOARD.JPG)
+![image](https://github.com/calfav/IMMERSE-HR-ANALYSIS-WITH-EXCEL/blob/main/Dashboard.png)
+
 
 
 
